@@ -1,0 +1,23 @@
+{
+  "name": "node_js_learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulreddyRR/node_js_study.git"
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulreddyRR/node_js_study/issues"
+  },
+  "homepage": "https://github.com/rahulreddyRR/node_js_study#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
